@@ -1,10 +1,5 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Power_BI-Analysis-orange?style=for-the-badge&logo=powerbi)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=for-the-badge)
-
 ## 📌 Project Overview
 This project analyzes retail customer data to uncover trends in purchasing habits, payment preferences, and demographic influences on sales. The goal is to provide actionable insights that help improve marketing strategies and customer retention.
 
@@ -68,10 +63,10 @@ A dynamic **Power BI** dashboard was created to visualize KPIs:
 
 ## 🖼️ Dashboard Preview
 ### Behavioral Overview
-![Dashboard 1](dashboard_overview/customer_behaviour_dashboard_preview_1.png)
+![Dashboard 1](./dashboard_overview/customer_behaviour_dashboard_preview_1.png)
 
 ### Demographic Insights
-![Dashboard 2](dashboard_overview/customer_behaviour_dashboard_preview_2.png)
+![Dashboard 2](./dashboard_overview/customer_behaviour_dashboard_preview_2.png)
 
 ---
 
