@@ -65,7 +65,7 @@ A dynamic **Power BI** dashboard was created to visualize KPIs:
 ### Behavioral Overview
 ![Dashboard 1](dashboard_overview/customer_behaviour_dashboard_preview1.png)
 
-### Demographic Insights
+### Products comparison
 ![Dashboard 2](dashboard_overview/customer_behaviour_dashboard_preview2.png)
 
 ---
